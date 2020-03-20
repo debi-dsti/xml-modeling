@@ -1,0 +1,60 @@
+<?xml version = "1.0"?>
+<company-info>
+   <h1
+      <name>Home</name>
+      <company>Trekking</company>
+      <terms>Terms and condition</terms>
+	  <payment>Payment Method</payment>
+   </h1>
+	
+   <h2>
+      <name>Trekking</name>
+      <region>Everest Region</region>
+      <trending>Trending</trending>
+	  <treks>Hilly Treks</treks>
+	  <New>News</news>
+	   <camping>Camping</camping>
+	   </h2>
+	   
+	  <h3> 
+	  <tours>Tours</tours>
+		 <city>City Tours</city>
+		  <educational>Educational Tours</educational>
+		  <charity>Charity Tours</>charity
+		   <main>Main City tours</main>
+		    <rural>Rural City tours</rural>
+	  </h3>
+	  
+	  <h4>
+	  <climbing>Technical Climbing</climbing>
+	   <peak>Trekking Peak</peak>
+	    <expenditure>Expenditure</expenditure>
+		
+		</h4>
+		
+		<h5>
+	 <special>Nepagram Special</special>
+     <nature>Into The Nature</nature>
+     <crowded>Less Crowded</crowded>
+	 <alternative>Alternative Tours</alternative>
+	  </h5>
+	  
+	   
+	   <h46>
+	 <customize>Customize</customize>
+	  <visa>Visa Info</visa>
+	   <insurance>Travell Insurance</insurance>
+	    <equipment>Equipment</equipment>
+		 <activity>Activity</activity>
+		  <flight>Flight Ticket</flight>
+		   <hostel>Hostel Booking</hostel>
+		    <bus>Bus Ticket</bus>
+			 </h6>
+	  
+	   
+	  
+	  
+	  
+   </home>
+</company-info>
+</>

@@ -1,0 +1,70 @@
+//reprenseting xml in json format
+string xml = @"<?xml version='1.0' standalone='no'?>
+<root><?xml version = "1.0"?>
+{
+	"Home": {
+		"home": [
+			{
+				"id": "1",
+				"company": "trekking",
+				"terms": "Terms_And_ondition",
+				"payment": "Payment method",
+
+				{
+				
+				"id": "2",
+				"name": "Trekking",
+				"region": "Everest_regoin",
+				"trending": "Trending,
+				
+				"treks: "hily_treks",
+				"news": "news",
+				"camping": "Payment camping,
+				
+			{
+			    "id": "3",
+				"name": "tours",
+				"region: "City tours",
+				"education": "Education_Tours",
+				"charity: "Charity_tours,
+				"city: "Main_City_tours",
+				"region: "Everest_regoin",
+				"rural": "Rural_city_tour",
+			},
+			{
+				"id": "4",
+				"climbing": "trekking",
+				"peak: "Terms And Condition",
+				"expenditure": "expenditure,
+
+				{
+				"id": "5",
+				"special": "special",
+				"nature": "nature",
+				"crowded": "crowded,
+				"alternative": "alternative",
+				
+
+				{
+                 "id": "6",
+				"customize": "customize",
+				"visa: "visa",
+				"insurance": insurance",
+				"equipment": "expenditure",
+				"activity: "activity",
+				"flight": "flight",
+			    "hostel": "hostel",
+				"bus: "bus",
+				
+			
+
+				}
+
+				}
+
+			}
+		]
+	}
+}
+}
+</>

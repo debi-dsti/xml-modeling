@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes" ?>
+<!DOCTYPE Trekking Company Webpage[
+   <!ELEMENT services (trekking,tours,climbing,tailormade trips,travel_info,phone_no), mail>
+   <!ELEMENT trekking (#PCDATA)>
+   <!ELEMENT tours(#PCDATA)>
+   <!ELEMENT climbing (#PCDATA)>
+   <!ELEMENT tailormade(#PCDATA)>
+   <!ELEMENT trips(#PCDATA)>
+   <!ELEMENT travel_info(#PCDATA)>
+   <!ELEMENT phone_no(#PCDATA)>
+   <!ELEMENT mail(#PCDATA)>
+    
+]
+

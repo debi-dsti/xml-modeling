@@ -1,0 +1,84 @@
+?xml version="1.0"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+targetNamespace="https://www.w3schools.com"
+xmlns="https://www.w3schools.com"
+
+xs:element name = "home_address">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name = "home" type = "AddressType" />
+			<xs:element name = "terms" type = "xs:int" /> 
+		</xs:sequence> 	  
+	</xs:complexType>
+	<xs:element name = "payment" type = "xs:paymentType" /> 
+</xs:sequence> 
+</xs:element> 
+
+<xs:element name = "trekking">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name = "regon" type = "AddressType" />
+			<xs:element name = "trending" type = "xs:string" /> 
+			<xs:element name = "hily" type = "xs:string" /> 
+			<xs:element name = "news" type = "xs:string" /> 
+			<xs:element name = "camping" type = "xs:string" />    
+		</xs:sequence> 
+	</xs:complexType>
+</xs:element> 
+
+<xs:element name = "tours">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name = "tours" type = "xs:string" />
+			<xs:element name = "city" type = "xs:string" />
+			<xs:element name = "educational" type = "xs:string" />
+			<xs:element name = "charity" type = "xs:string" />
+			<xs:element name = "main" type = "xs:string" />
+			<xs:element name = "rural" type = "xs:string" />
+
+		</xs:sequence> 
+	</xs:complexType>
+</xs:element> 
+
+<xs:element name = "climbing">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name = "technical" type = "xs:string" />
+			<xs:element name = "peak" type = "xs:string" />
+			<xs:element name = "expendition" type = "xs:string" />
+
+		</xs:sequence> 
+	</xs:complexType>
+</xs:element> 
+
+
+
+<xs:element name = "tailor_made">
+	<xs:complexType>
+		<xs:sequence>
+
+			<xs:element name = "special" type = "xs:string" />
+			<xs:element name = "nature" type = "xs:string" />
+			<xs:element name = "crowded" type = "xs:string" />
+
+		</xs:sequence> 
+		<xs:element name = "alternative" type = "xs:string" />
+	</xs:complexType>
+</xs:element> 
+
+<xs:element name = "info">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name = "customize" type = "xs:string" />
+			<xs:element name = "visa" type = "xs:string" />
+			<xs:element name = "insurance" type = "xs:string" />
+			<xs:element name = "equipment" type = "xs:string" />
+			<xs:element name = "activity" type = "xs:string" />
+			<xs:element name = "flight" type = "xs:string" />
+			<xs:element name = "hostel" type = "xs:string" />
+			<xs:element name = "bus" type = "xs:string" />
+
+		</xs:sequence> 
+	</xs:complexType>
+</xs:element> 
